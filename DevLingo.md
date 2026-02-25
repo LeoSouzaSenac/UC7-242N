@@ -517,55 +517,135 @@ Isso permite dividir o projeto em partes independentes.
 
 ---
 
-# 16. Conceitos Trabalhados
+# Missão: Expansão Linguística Obrigatória
 
-Neste projeto o aluno pratica:
-
-* Modularização
-* Organização de arquivos
-* Loops
-* Condições
-* Arrays
-* Objetos
-* Funções
-* Estado compartilhado
-* Arquitetura simples
+Cada aluno deve adicionar **no mínimo 2 questões para cada estrutura abaixo**.
 
 ---
 
-# 17. Possíveis Expansões
+# Estruturas Obrigatórias
 
-O projeto pode evoluir para:
+## Presente Simples
 
-* Ranking salvo em JSON
-* Níveis de dificuldade
-* Sistema de login
-* Banco de dados
-* Interface gráfica
-* API REST
-* Versão web
+Exemplo:
+
+* She works every day.
+* They play soccer.
 
 ---
 
-# 18. Conclusão
+## Passado Simples
 
-DevLingo Arena é um projeto que une:
+Exemplo:
 
-* Programação
-* Arquitetura
-* Organização
-* Inglês
-* Lógica
+* I went to work yesterday.
+* She fixed the bug.
 
-Ele pode ser usado como:
+---
 
-* Projeto avaliativo
-* Projeto final de módulo
-* Introdução a Node.js
-* Exercício de modularização
+## Negação no Presente
 
-O mais importante não é apenas fazer funcionar.
-É entender a estrutura e o porquê de cada decisão.
+Exemplo:
+
+* I don’t like bugs.
+* She doesn’t understand.
+
+---
+
+## Negação no Passado
+
+Exemplo:
+
+* I didn’t push the code.
+* They didn’t finish.
+
+---
+
+## Contrações
+
+Exemplo:
+
+* I am → I’m
+* She is → She’s
+* Do not → Don’t
+* Did not → Didn’t
+
+Pode ser:
+
+* Complete a frase usando contração
+* Transforme para forma contraída
+
+---
+
+## Verbo “to be”
+
+* Afirmativa
+* Negativa
+* Interrogativa
+
+---
+
+## Perguntas com Do/Does
+
+Exemplo:
+
+* Do you code?
+* Does she work here?
+
+---
+
+## Perguntas no Passado (Did)
+
+Exemplo:
+
+* Did you finish the task?
+
+---
+
+## Plural
+
+* Variable / Variables
+* Class / Classes
+
+---
+
+## There is / There are
+
+---
+
+# 📌 Regras Importantes
+
+1. Cada pergunta deve ter:
+
+   * Frase
+   * Resposta correta
+   * Explicação simples da regra
+
+Se errar, o sistema deve mostrar:
+
+Explanation: We use "does" because it is third person singular.
+
+Isso é obrigatório.
+
+---
+
+
+# Depois, crie um novo jogo que deve:
+
+- Transformar frase afirmativa em negativa
+- Transformar afirmativa em pergunta
+- Transformar frase longa em contraída
+
+Exemplo:
+
+> She is working.
+> Resposta esperada:
+> She isn’t working.
+
+---
+
+
+
 
 
 
