@@ -11,13 +11,6 @@ Eles são usados para:
 * Dar **ênfase**
 * Substituir o verbo principal em **respostas curtas**
 
-Na área de **desenvolvimento de sistemas**, essas estruturas aparecem o tempo todo quando perguntamos sobre:
-
-* sistemas
-* código
-* APIs
-* processos de desenvolvimento
-
 Exemplos:
 
 * Do you use Git?
