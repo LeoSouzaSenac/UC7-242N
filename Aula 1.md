@@ -112,7 +112,7 @@ Exemplos:
 
 Was/Were + sujeito
 
-- Was she home? (uóz xi rôm)
+- Was she at home? (uóz xi rôm)
 - Were they ready? (uâr dêi rédi)
 
 ---
