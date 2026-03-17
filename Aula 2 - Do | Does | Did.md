@@ -385,19 +385,7 @@ You use Git → **Do you use Git?**
 
 ---
 
-## Exercício 6 — Prática de fala
-
-Responda em voz alta:
-
-1. Do you study programming?
-2. Do you write code every day?
-3. Do you use GitHub?
-4. Did you code yesterday?
-5. Did you debug a program recently?
-
----
-
-# 13. Exercício de escrita
+## Exercício 6
 
 Escreva um pequeno texto sobre sua rotina de programação.
 
