@@ -3,7 +3,7 @@
 ---
 
 
-# Por que os Modal Verbs são importantes na Tecnologia?
+# Por que são importantes?
 
 No desenvolvimento de software, os profissionais constantemente precisam:
 
