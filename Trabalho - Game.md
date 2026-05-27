@@ -34,7 +34,7 @@ O jogo deve possuir:
 
 * Feedback:
 
-  * informar se a escolha foi correta ou incorreta
+  * informar se a escolha tem mais concordância / menos absurda
   * imagem baseada nas escolhas
 
 * Tela final:
