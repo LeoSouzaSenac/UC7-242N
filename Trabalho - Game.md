@@ -35,7 +35,7 @@ O jogo deve possuir:
 * Feedback:
 
   * informar se a escolha foi correta ou incorreta
-  * explicar rapidamente o motivo gramatical
+  * imagem baseada nas escolhas
 
 * Tela final:
 
