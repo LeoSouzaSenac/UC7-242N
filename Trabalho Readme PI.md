@@ -4,138 +4,116 @@
 
 Vocês vão escrever o `README.md` real do repositório do PI — o documento que qualquer pessoa lê quando abre o projeto no GitHub.
 
-O template abaixo já tem a estrutura de um README profissional (integrantes, tecnologias, instalação, features etc). Algumas seções têm uma instrução escondida em comentário (`<!-- assim -->`) dizendo qual tempo verbal de Passive Voice é obrigatório ali. Esses comentários **não aparecem** quando o README é renderizado no GitHub** — servem apenas como guia durante a escrita.
+O template abaixo já tem a estrutura de um README profissional (integrantes, tecnologias, instalação, features etc).
 
-### Regra
-
-Nas seções marcadas como obrigatórias, as frases devem ser sobre o projeto de vocês e devem utilizar **Passive Voice**.
-
-Nas demais seções (como Technologies Used, Installation e How to Run), pode ser utilizada voz ativa normalmente, pois esse é o padrão da documentação técnica profissional.
+**Regra:** as frases têm que ser sobre o projeto de vocês de verdade (não genéricas) e têm que estar em Passive Voice. Nas demais seções (instalação, tecnologias), pode usar voz ativa/imperativo normalmente — é assim que documentação técnica real funciona.
 
 ---
 
+## Template (copie isso para o README.md do seu repositório)
+
+````markdown
 # Nome do Projeto
 
-<!-- Descrição curta do projeto.
-Pelo menos 1 frase em Present Simple Passive.
+<!-- Descrição curta do projeto. Pelo menos 1 frase em Present Simple Passive.
 Ex: "User data is encrypted before being saved." -->
+
+
 
 ## Team
 
-<!-- Nome dos integrantes do grupo -->
-
-* Nome 1
-* Nome 2
-* Nome 3
+<!-- Nome dos integrantes do grupo, sem exigência de Passive Voice aqui -->
+- 
+- 
 
 ## Technologies Used
 
-<!-- Liste as tecnologias utilizadas e explique sua função em inglês -->
+<!-- Lista das tecnologias usadas, voz ativa é normal aqui. Explique o que cada uma faz (english) -->
+- 
+- 
 
-* HTML – Used to structure the web pages.
-* CSS – Used to style the user interface.
-* JavaScript – Used to implement application logic.
-* Node.js – Used to run the backend server.
-* MySQL – Used to store application data.
+## Features (o que o sistema faz)
 
-## Features
-
-<!-- OBRIGATÓRIO: mínimo 3 frases em Present Simple Passive -->
-
-*
-*
-*
+<!-- OBRIGATÓRIO: mínimo 3 frases em Present Simple Passive
+Ex: "Passwords are stored securely." -->
+- 
+- 
+- 
 
 ## Installation
 
-<!-- Explique o processo de instalação.
-Use frases orientando o usuário, não apenas comandos. -->
-
-1. Clone the repository to your local machine.
+<!-- Passo a passo real de instalação. Use imperativo (Clone, Install, Run). Não mostre apenas os comandos: guie o usuário. -->
 
 ```bash
 git clone <repo-url>
-```
-
-2. Install all project dependencies.
-
-```bash
 npm install
 ```
 
-3. Configure the environment variables if required.
-
-4. Make sure the database is running.
-
 ## How to Run
-
-Start the development server:
 
 ```bash
 npm run dev
 ```
 
-## Changelog
+## Changelog (Changelog é o histórico das mudanças que já foram feitas no projeto.)
 
-(Changelog é o histórico das mudanças que já foram realizadas no projeto.)
-
-<!-- OBRIGATÓRIO: mínimo 3 frases em Past Simple Passive -->
+<!-- OBRIGATÓRIO: mínimo 3 frases em Past Simple Passive, sobre mudanças reais já feitas no projeto
+Ex: V1.0.0 "The login page was created."
+Ex: V1.0.1 "The login page was redesigned." -->
 
 ### v1.0.0
+- 
+- 
+- 
 
-*
-*
-*
+## Known Issues (é a parte do README onde vocês informam bugs, limitações ou problemas que já são conhecidos pela equipe, mas ainda não foram corrigidos.)
 
-## Known Issues
+<!-- OBRIGATÓRIO: mínimo 2 frases usando Modal + Passive
+Ex: "This bug should be fixed in the next sprint."
+Ex 2: "Search results can be delayed when a large amount of data is processed." -->
 
-(Esta seção descreve bugs, limitações ou problemas conhecidos que ainda não foram corrigidos.)
+- 
+- 
 
-<!-- OBRIGATÓRIO: mínimo 2 frases usando Modal + Passive -->
+## Roadmap (é o plano de evolução do projeto. Nele vocês descrevem funcionalidades e melhorias que serão implementadas no futuro.)
 
-*
-*
+<!-- OBRIGATÓRIO: mínimo 2 frases em Future Passive
+Ex: "Dark mode will be added in the next release." -->
 
-## Roadmap
+- 
+- 
 
-(Esta seção descreve melhorias e funcionalidades que serão implementadas futuramente.)
+## Rules & Requirements (essa seção descreve as regras que o sistema deve seguir e os requisitos obrigatórios de validação, segurança e funcionamento.)
 
-<!-- OBRIGATÓRIO: mínimo 2 frases em Future Passive -->
+<!-- OBRIGATÓRIO: mínimo 3 frases em Modal + Passive, sobre regras de validação/segurança do sistema
+Ex: "Invalid input must be rejected by the system."
+Ex 2: "User passwords must be encrypted before storage." -->
 
-*
-*
-
-## Rules & Requirements
-
-(Esta seção descreve regras obrigatórias de validação, segurança e funcionamento do sistema.)
-
-<!-- OBRIGATÓRIO: mínimo 3 frases em Modal + Passive -->
-
-*
-*
-*
+- 
+- 
+- 
+````
 
 ---
 
-# Checklist antes de entregar
+## Checklist antes de entregar
 
-* [ ] Features: 3 ou mais frases em Present Simple Passive
-* [ ] Changelog: 3 ou mais frases em Past Simple Passive
-* [ ] Known Issues: 2 ou mais frases em Modal + Passive
-* [ ] Roadmap: 2 ou mais frases em Future Passive
-* [ ] Rules & Requirements: 3 ou mais frases em Modal + Passive
-* [ ] Todas as frases são específicas do PI
-* [ ] README enviado para o repositório
-* [ ] Commit realizado
+* [ ] Features: 3+ frases em Present Simple Passive
+* [ ] Changelog: 3+ frases em Past Simple Passive
+* [ ] Known Issues: 2+ frases em Modal + Passive
+* [ ] Roadmap: 2+ frases em Future Passive
+* [ ] Rules & Requirements: 3+ frases em Modal + Passive
+* [ ] Nenhuma frase genérica — tudo sobre o PI de verdade
+* [ ] Commit feito no repositório do projeto
 
 ## Entrega
 
-Faça o commit do arquivo `README.md` atualizado no repositório do projeto.
+Commit do `README.md` atualizado no repositório do PI.
 
-Mensagem de commit:
+Mensagem de commit em inglês:
 
 ```bash
 docs: README was updated with project documentation
 ```
 
-A entrega será realizada através da aba **Discussions** do GitHub neste mesmo repositório.
+A entrega será feita via Discussions no GitHub, neste mesmo repositório.
