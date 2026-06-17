@@ -93,29 +93,6 @@ Modal + be + Participle
 
 ---
 
-# Vocabulário: Verbos no Participle (V3)
-
-| Base | Past Simple | Participle (V3) |
-|---|---|---|
-| fix | fixed | fixed |
-| update | updated | updated |
-| test | tested | tested |
-| deploy | deployed | deployed |
-| release | released | released |
-| design | designed | designed |
-| store | stored | stored |
-| encrypt | encrypted | encrypted |
-| implement | implemented | implemented |
-| remove | removed | removed |
-| add | added | added |
-| create | created | created |
-| build | built | built |
-| write | wrote | written |
-| break | broke | broken |
-| find | found | found |
-
----
-
 # Exemplos em Contextos Profissionais
 
 ## Changelog
